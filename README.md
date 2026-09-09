@@ -1,6 +1,6 @@
 # Ayesha Kauser
 **Biomedical Engineering Student @ UET Lahore**  
-Focused on signal processing, ML for healthcare, and bioinformatics.  
+Focused on signal processing and ML for healthcare.  
 
 
 ---
