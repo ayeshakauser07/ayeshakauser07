@@ -8,8 +8,7 @@ Focused on signal processing, ML for healthcare, and bioinformatics.
 ## Skills
 **Languages:** Python, MATLAB, C/C++, R  
 **ML & AI:** PyTorch, Scikit-learn, Deep Learning, Time-Series Classification  
-**Signal Processing:** EEG/ECG/EMG Analysis, Seizure Detection, HRV Analysis  
-**Bioinformatics:** Biopython, GEOparse, NCBI, Gene Expression, Transcriptomics  
+**Signal Processing:** EEG/ECG/EMG Analysis, Seizure Detection, HRV Analysis   
 **Tools:** Git, GitHub, Jupyter, Google Colab, Arduino, Proteus, KiCad
 
 ---
